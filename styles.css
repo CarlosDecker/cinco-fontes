@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;500;600;700&family=Lobster&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sono:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-size: 25px;
+    background-color:lightgray ;
+    text-shadow: 0.1em 0.1em 0.1em black;
+    color: white;
+}
+
+.PrimeiroP {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.SegundoP {
+    font-family: 'Lobster', cursive;;
+}
+.TerceiroP {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.QuartoP {
+    font-family: 'Roboto', sans-serif;
+}
+
+.QuintoP {
+    font-family: 'Sono', sans-serif;
+}
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+h1,h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
